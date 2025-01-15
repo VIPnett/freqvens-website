@@ -92,7 +92,7 @@ export default function Contact() {
                     <h3 className="font-semibold">Adresse</h3>
                     <p className="text-gray-600">
                       Sentrumsveien 1<br />
-                      0000 Oslo
+                      0000 Drammen
                     </p>
                   </div>
                 </div>
